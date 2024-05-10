@@ -1,0 +1,24 @@
+h1 {
+    font-family: Papyrus, fantasy;
+    color: crimson;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+h2 {
+    font-family: 'Lucida Handwriting', cursive;
+    font-size: 25px;
+    background-color:slategray;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.recipe-names{
+    color: midnightblue;
+    font-family: Copperplate, fantasy;
+    font-size: 23px;
+}
