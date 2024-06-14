@@ -1,3 +1,34 @@
+/* body {
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid black;
+} */
+
+div {
+    padding: 30px;
+    text-align: center;
+    color: rgb(113, 185, 244);
+    margin-bottom: 10px;
+
+}
+
+.ziti {
+    background-color: dimgrey;
+}
+
+.alfredo {
+    background-color: silver;
+}
+
+.butter_chicken {
+    background-color: steelblue;
+}
+
+.recipe-names{
+    font-family: Copperplate, fantasy;
+    font-size: 23px;
+}
+
 h1 {
     font-family: Papyrus, fantasy;
     color: crimson;
@@ -10,15 +41,14 @@ h2 {
     font-family: 'Lucida Handwriting', cursive;
     font-size: 25px;
     background-color:slategray;
+    padding: 5px;
 }
 
 img {
-    height: auto;
-    width: 300px;
+    display: block;
+    margin: 0 auto;
 }
 
-.recipe-names{
-    color: midnightblue;
-    font-family: Copperplate, fantasy;
-    font-size: 23px;
+.indent-para {
+    padding-left: 10px;
 }
